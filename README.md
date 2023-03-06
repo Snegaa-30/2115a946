@@ -1,4 +1,4 @@
-# 2115a946
+
 The document contains the requirments for 
 stock inventory.Goal to provide user the 
 interface to manage daily transactions and 
